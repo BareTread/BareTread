@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Alin Ciocan 👋</h1>
 
-<!--
-**BareTread/BareTread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Ex-restaurant worker turned pragmatic coder.<br>
+  I build <strong>useful things</strong>, automate the boring stuff, and write about the messy bits in between.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Missions
+| Project | What it solves | Status |
+| ------- | -------------- | ------ |
+| **BareTread.com** | Honest barefoot-shoe reviews, site now 72 % faster → 35 % more conversions | <kbd>Live</kbd> |
+| **RentWatchdog** | Fights UK rent exploitation with data-driven alerts | <kbd>Building</kbd> |
+| **StartSwitch** | ADHD-friendly task switcher that actually sticks | <kbd>v1 out</kbd> |
+
+---
+
+### 🛠️ Toolbox (trimmed for clarity)
+`JavaScript / TypeScript` • `Python` • `Node.js` • `SQL` •  
+`Tailwind / SCSS` • `DevOps` • `Prompt Engineering` • `OpenAI API` • `Zapier / Make` • `RAG Pipelines`
+
+<details>
+<summary>Why these?</summary>
+
+Because they work, scale, and let me ship **fast**. If something better shows up tomorrow, I’ll switch.
+</details>
+
+---
+
+### ⚡ Quick Stats
+- 🏃‍♂️ **1M+ monthly views** served across side-projects  
+- 🤖 **1,000s of hours saved** via AI & automation workflows  
+- ☕ Fuelled by specialty coffee and mild dark humour  
+- 🧠 ADHD superpower: hyper-focus sprints, documented for fellow makers  
+
+---
+
+### ✍️ Latest Notes
+<!-- Feed readers will pick this list; replace links with real posts -->
+- *Why Most “AI” Demos Are Smoke & Mirrors* → <code>blog/ai-smoke</code>
+- *Bootstrapping RentWatchdog in 48 Hours* → <code>blog/rentwatchdog-48h</code>
+- *BareTread Post-Mortem: Performance First, Pretty Later* → <code>blog/baretread-perf</code>
+
+---
+
+### 🤝 Connect
+| &nbsp; | &nbsp; |
+| --- | --- |
+| 💬 Mail | **alin [at] baretread.com** |
+| 🌐 Bluesky | [hd.al](https://bsky.app/profile/hd.al) |
+| 💼 LinkedIn | [uk.linkedin.com/in/alin-ciocan](https://uk.linkedin.com/in/alin-ciocan) |
+| 🔗 Web | [AlinCiocan.com](https://alinciocan.com) |
+
+---
+
+<details>
+<summary>GitHub Nerd Corner</summary>
+
+[![Alin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alin-ciocan&show_icons=true&hide_title=true)](https://github.com/alin-ciocan)
+
+</details>
+
+<!-- End of README -->
