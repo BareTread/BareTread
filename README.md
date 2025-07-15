@@ -36,12 +36,6 @@ Because they work, scale, and let me ship **fast**. If something better shows up
 
 ---
 
-### ✍️ Latest Notes
-<!-- Feed readers will pick this list; replace links with real posts -->
-- *Why Most “AI” Demos Are Smoke & Mirrors* → <code>blog/ai-smoke</code>
-- *Bootstrapping RentWatchdog in 48 Hours* → <code>blog/rentwatchdog-48h</code>
-- *BareTread Post-Mortem: Performance First, Pretty Later* → <code>blog/baretread-perf</code>
-
 ---
 
 ### 🤝 Connect
